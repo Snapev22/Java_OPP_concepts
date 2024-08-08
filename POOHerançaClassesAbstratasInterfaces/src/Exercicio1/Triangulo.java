@@ -4,10 +4,10 @@ public class Triangulo extends Forma{
 
 	protected float base;
 	protected float altura;
-	
-	
+
+
 	public Triangulo() {}
-	
+
 	public Triangulo(float base, float altura) {
 		super();
 		this.base = base;
@@ -20,8 +20,8 @@ public class Triangulo extends Forma{
 		area += this.base * this.altura;
 		return area;
 	}
-	
-	
+
+
 
 	@Override
 	public float calculaPerimetro() {
@@ -29,8 +29,8 @@ public class Triangulo extends Forma{
 		perimetro += (this.base*this.altura)/2;
 		return perimetro;
 	}
-	
-	
+
+
 
 	public float getBase() {
 		return base;
@@ -54,8 +54,7 @@ public class Triangulo extends Forma{
 		System.out.println("Altura do triângulo " + this.altura); 
 		System.out.printf("Area do triângulo: %.2f%n",calculaArea());
 		System.out.printf("Perimentro do triângulo: %.2f%n ", calculaPerimetro());
-				
+
 	}
 
-	
 }

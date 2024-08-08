@@ -1,5 +1,6 @@
 package Exercicio2;
 
+
 public class Analista extends Empregado{
 	private float valProjetos [];
 
@@ -33,6 +34,5 @@ public class Analista extends Empregado{
 		// TODO Auto-generated method stub
 		return super.getCracha();
 	}
-	
 	
 }

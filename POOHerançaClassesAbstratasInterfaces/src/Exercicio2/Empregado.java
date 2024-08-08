@@ -32,5 +32,4 @@ public abstract class Empregado {
 		this.cracha = cracha;
 	}
 	
-	
 }
