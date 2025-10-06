@@ -1,0 +1,11 @@
+# Arquivos de classes compiladas e pastas de saída
+*/bin/
+*.class
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos de log e temporários
+*.log
