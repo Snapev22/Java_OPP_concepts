@@ -9,3 +9,5 @@
 
 # Arquivos de log e temporários
 *.log
+
+module-info.java
