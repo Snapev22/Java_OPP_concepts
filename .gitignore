@@ -1,13 +1,18 @@
-# Arquivos de classes compiladas e pastas de saída
-*/bin/
-*.class
-
-# Arquivos de configuração do Eclipse
-.classpath
+# IDEs (IntelliJ, Eclipse, etc.)
+.idea/
 .project
+.classpath
 .settings/
 
-# Arquivos de log e temporários
-*.log
+# Arquivos de Build e Saída
+out/
+*/bin/
+/lib/
+/doc/
+*.class
 
+# Arquivos do Módulo Java
 module-info.java
+
+# Logs e Temporários
+*.log
