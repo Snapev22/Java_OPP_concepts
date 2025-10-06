@@ -10,6 +10,12 @@ import cadastroDePessoas.Professor;
 public class TipoPessoaTest01 {
 
 	public static void main(String[] args) {
+		
+		/*
+		 * ENUNCIADO: Demonstra Herança e Polimorfismo.
+		 * Permite cadastrar Pessoas (Aluno, Professor, Funcionario) usando uma
+		 * referência genérica 'Pessoa p'.
+		 */
 		Pessoa p = null;
 
 		while (true) {

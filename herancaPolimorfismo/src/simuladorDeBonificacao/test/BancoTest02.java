@@ -4,6 +4,11 @@ import simuladorDeBonificacao.Caixa;
 import simuladorDeBonificacao.Funcionario;
 
 public class BancoTest02 {
+	
+	/*
+	 * ENUNCIADO: Simula o cálculo da bonificação de um Caixa.
+	 * Continuação da demonstração de Sobrescrita de métodos.
+	 */
 	public static void main(String[] args) {
 		Funcionario caixa = new Caixa();
 
