@@ -1,4 +1,4 @@
-package ExercicioFormas;
+package calculoGeometrico;
 
 public abstract class Forma {
 	

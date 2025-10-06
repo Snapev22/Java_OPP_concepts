@@ -1,9 +1,9 @@
-package Exercicios.test;
+package calculoGeometrico.test;
 
 import javax.swing.JOptionPane;
 
-import ExercicioFormas.Circunferencia;
-import ExercicioFormas.Retangulo;
+import calculoGeometrico.Circunferencia;
+import calculoGeometrico.Retangulo;
 
 public class FormasTest02 {
 

@@ -1,4 +1,4 @@
-package ExercicioEmpregados;
+package calculoFolhaPagamento;
 
 public class Programador extends Empregado {
 	private float qtdeHoras;

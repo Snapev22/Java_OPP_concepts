@@ -1,8 +1,9 @@
-package Exercicios.test;
+package calculoFolhaPagamento.test;
 
 import javax.swing.JOptionPane;
-import ExercicioEmpregados.Analista;
-import ExercicioEmpregados.Programador;
+
+import calculoFolhaPagamento.Analista;
+import calculoFolhaPagamento.Programador;
 
 public class EmpregadosTest01 {
 	public static void main(String [] args) {

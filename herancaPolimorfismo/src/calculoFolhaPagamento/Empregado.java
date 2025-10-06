@@ -1,4 +1,4 @@
-package ExercicioEmpregados;
+package calculoFolhaPagamento;
 
 public abstract class Empregado {
 	protected String nome;

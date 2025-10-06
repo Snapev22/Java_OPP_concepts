@@ -1,4 +1,4 @@
-package ExercicioFormas;
+package calculoGeometrico;
 
 public class Circunferencia extends Forma{
 	public float raio;

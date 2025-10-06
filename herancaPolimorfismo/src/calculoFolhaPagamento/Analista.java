@@ -1,4 +1,4 @@
-package ExercicioEmpregados;
+package calculoFolhaPagamento;
 
 public class Analista extends Empregado{
 	private float valProjetos [];

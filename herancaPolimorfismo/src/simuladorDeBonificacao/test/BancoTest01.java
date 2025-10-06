@@ -8,6 +8,11 @@ import simuladorDeBonificacao.Gerente;
 public class BancoTest01 {
 
 	public static void main(String[] args) {
+		
+		/*
+		 * ENUNCIADO: Simula o cálculo da bonificação de um Gerente.
+		 * Demonstra a sobrescrita (Override) do método 'bonificacao()'.
+		 */
 
 		String nome = JOptionPane.showInputDialog("Digte o nome: ");
 

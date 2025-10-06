@@ -1,8 +1,8 @@
-package Exercicios.test;
+package calculoGeometrico.test;
 
-import ExercicioFormas.Circunferencia;
-import ExercicioFormas.Retangulo;
-import ExercicioFormas.Triangulo;
+import calculoGeometrico.Circunferencia;
+import calculoGeometrico.Retangulo;
+import calculoGeometrico.Triangulo;
 
 public class FormasTest01 {
 	public static void main(String[] args) {
